@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushBarai
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me baraiayush541@Gmail.com or baraiayush366@Gmail.com
 
 <!---
